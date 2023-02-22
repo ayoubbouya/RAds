@@ -1,6 +1,6 @@
 {
-"FakeInstall" : true,
-"ContentLockerBTN" : false,
+"FakeInstall" : false,
+"ContentLockerBTN" : true,
 "LandingPageLink" : "hthttps://fancy-tulumba-3fa35a.netlify.app/gamebowl.xyz/minecoins.html/",
 "ContentLockerLink" : "https://thefile.info/394112d",
 "PrivacyPolicyLink" : "https://privacypolicydanny.blogspot.com/2022/07/privacy-policy.html"
